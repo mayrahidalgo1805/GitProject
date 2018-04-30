@@ -1,0 +1,6 @@
+c:\users\mayra.hidalgo\documents\visual studio 2015\Projects\Hexadecimales\Hexadecimales\bin\Debug\Hexadecimales.exe.config
+c:\users\mayra.hidalgo\documents\visual studio 2015\Projects\Hexadecimales\Hexadecimales\bin\Debug\Hexadecimales.exe
+c:\users\mayra.hidalgo\documents\visual studio 2015\Projects\Hexadecimales\Hexadecimales\bin\Debug\Hexadecimales.pdb
+c:\users\mayra.hidalgo\documents\visual studio 2015\Projects\Hexadecimales\Hexadecimales\obj\Debug\Hexadecimales.csprojResolveAssemblyReference.cache
+c:\users\mayra.hidalgo\documents\visual studio 2015\Projects\Hexadecimales\Hexadecimales\obj\Debug\Hexadecimales.exe
+c:\users\mayra.hidalgo\documents\visual studio 2015\Projects\Hexadecimales\Hexadecimales\obj\Debug\Hexadecimales.pdb
